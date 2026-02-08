@@ -1,0 +1,9 @@
+age,gender,city,study_hours,pass
+21,Male,Dublin,3,Yes
+22,Female,Cork,5,Yes
+20,Male,Galway,2,No
+23,Female,Dublin,4,Yes
+21,Male,Cork,1,No
+22,Female,Galway,3,Yes
+20,Male,Dublin,2,No
+23,Female,Cork,4,Yes

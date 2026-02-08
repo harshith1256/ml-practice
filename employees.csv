@@ -1,0 +1,9 @@
+age,department,city,salary,will_leave
+25,IT,Dublin,40000,No
+30,HR,Cork,35000,Yes
+28,IT,Galway,42000,No
+35,Finance,Dublin,50000,Yes
+26,HR,Cork,36000,No
+32,Finance,Galway,48000,Yes
+29,IT,Dublin,41000,No
+31,HR,Cork,37000,Yes
